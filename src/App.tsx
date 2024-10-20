@@ -1,7 +1,9 @@
+import Home from "./pages/Home/Home";
+
 import "./App.scss";
 
 function App() {
-  return <h1>App screen</h1>;
+  return <Home />;
 }
 
 export default App;

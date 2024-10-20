@@ -1,0 +1,19 @@
+.input-search-container {
+  display: flex;
+
+  button {
+    margin-left: 14px;
+  }
+}
+
+@media (max-width: 600px) {
+  .input-search-container {
+    flex-direction: column;
+  }
+
+  .input-search-container button {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 10px;
+  }
+}
