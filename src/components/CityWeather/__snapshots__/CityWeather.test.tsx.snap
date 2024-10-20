@@ -1,0 +1,215 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CityWeather /> should render component correctly 1`] = `
+<div
+  class="city-weather-container"
+>
+  <div
+    class="ant-descriptions ant-descriptions-bordered css-dev-only-do-not-override-1hpnbz2"
+  >
+    <div
+      class="ant-descriptions-header"
+    >
+      <div
+        class="ant-descriptions-title"
+      >
+        Weather Info
+      </div>
+    </div>
+    <div
+      class="ant-descriptions-view"
+    >
+      <table>
+        <tbody>
+          <tr
+            class="ant-descriptions-row"
+          >
+            <th
+              class="ant-descriptions-item-label"
+              colspan="1"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                City
+              </span>
+            </th>
+            <th
+              class="ant-descriptions-item-label"
+              colspan="1"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                Country
+              </span>
+            </th>
+            <th
+              class="ant-descriptions-item-label"
+              colspan="1"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                Temperature
+              </span>
+            </th>
+          </tr>
+          <tr
+            class="ant-descriptions-row"
+          >
+            <td
+              class="ant-descriptions-item-content"
+              colspan="1"
+            >
+              <span>
+                New York
+              </span>
+            </td>
+            <td
+              class="ant-descriptions-item-content"
+              colspan="1"
+            >
+              <span>
+                United States of America
+              </span>
+            </td>
+            <td
+              class="ant-descriptions-item-content"
+              colspan="1"
+            >
+              <span>
+                24
+              </span>
+            </td>
+          </tr>
+          <tr
+            class="ant-descriptions-row"
+          >
+            <th
+              class="ant-descriptions-item-label"
+              colspan="1"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                Weather Description
+              </span>
+            </th>
+            <th
+              class="ant-descriptions-item-label"
+              colspan="1"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                Wind Speed
+              </span>
+            </th>
+            <th
+              class="ant-descriptions-item-label"
+              colspan="1"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                Humidity
+              </span>
+            </th>
+          </tr>
+          <tr
+            class="ant-descriptions-row"
+          >
+            <td
+              class="ant-descriptions-item-content"
+              colspan="1"
+            >
+              <span>
+                Partly cloudy
+              </span>
+            </td>
+            <td
+              class="ant-descriptions-item-content"
+              colspan="1"
+            >
+              <span>
+                9
+              </span>
+            </td>
+            <td
+              class="ant-descriptions-item-content"
+              colspan="1"
+            >
+              <span>
+                22
+              </span>
+            </td>
+          </tr>
+          <tr
+            class="ant-descriptions-row"
+          >
+            <th
+              class="ant-descriptions-item-label"
+              colspan="1"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                UV Index
+              </span>
+            </th>
+            <th
+              class="ant-descriptions-item-label"
+              colspan="1"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                Precip
+              </span>
+            </th>
+            <th
+              class="ant-descriptions-item-label"
+              colspan="1"
+            >
+              <span
+                style="font-weight: bold;"
+              >
+                Pressure
+              </span>
+            </th>
+          </tr>
+          <tr
+            class="ant-descriptions-row"
+          >
+            <td
+              class="ant-descriptions-item-content"
+              colspan="1"
+            >
+              <span>
+                1
+              </span>
+            </td>
+            <td
+              class="ant-descriptions-item-content"
+              colspan="1"
+            >
+              <span>
+                0
+              </span>
+            </td>
+            <td
+              class="ant-descriptions-item-content"
+              colspan="1"
+            >
+              <span>
+                1024
+              </span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;
